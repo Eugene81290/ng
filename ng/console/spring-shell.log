@@ -1,0 +1,21 @@
+// Spring Shell 1.2.0.RELEASE log opened at 2021-04-07 01:38:48
+saveLogin --host identitysso.betfair.com --appKey COHvKYs8pJR568nc --userName eugenecharniauski@gmail.com --password Eedh12dcs!
+// [failed] marketFirehose
+// Spring Shell 1.2.0.RELEASE log opened at 2021-04-07 01:41:58
+help
+// Spring Shell 1.2.0.RELEASE log opened at 2021-04-07 10:23:08
+help
+saveLogin --host identitysso.betfair.com --appKey COHvKYs8pJR568nc --userName eugenecharniauski@gmail.com --password Eedh12dcs!
+market 1.181566721
+market 1.181566721
+saveLogin --host identitysso.betfair.com --appKey COHvKYs8pJR568nc --userName eugenecharniauski@gmail.com --password Eedh12dcs!
+market 1.181566721
+market 1.181566721
+market 1.181566721
+saveLogin --host identitysso.betfair.com --appKey COHvKYs8pJR568nc --userName eugenecharniauski@gmail.com --password Eedh12dcs!
+market 1.181566721
+market [1.181566721]
+market 1.181566721
+traceMarkets
+// [failed] marketFirehose
+market "1.181566721"
